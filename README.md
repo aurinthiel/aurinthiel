@@ -1,6 +1,6 @@
 Beginning Web-Developer who is trying to build his projects for people to use and enjoy them.
 
-## *Languages*
+## *Languages and Frameworks*
 <div align="center">
 <!-- C# --> <img src="https://img.shields.io/badge/-C Sharp-0066FF?style=for-the-badge&labelColor=black&logo=sharp&logoColor=0066FF">
 <!-- JavaScript --> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E">
@@ -15,6 +15,7 @@ Beginning Web-Developer who is trying to build his projects for people to use an
 
 ## *Contact us*
   <a href="mailto:sevaandreekins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335"></a>
+  <a href="https://t.me/vsffly"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&labelColor=black&logo=telegram&logoColor=26A5E4"></a>
 
 ## *Other social links*
   <a href="https://instagram.com/flytoonkin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF0069?style=for-the-badge&labelColor=black&logo=instagram&logoColor=FF0069" target="_blank"></a>
