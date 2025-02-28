@@ -1,4 +1,4 @@
-Beginning Web-Developer who is trying to build his projects for people to use and enjoy them.
+Beginning Developer who is trying to build his projects for people to use and enjoy them.
 
 ## *Languages and Frameworks*
 <div align="center">
