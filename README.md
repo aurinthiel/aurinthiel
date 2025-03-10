@@ -8,7 +8,7 @@ Beginning Developer who is trying to build his projects for people to use and en
 <!-- HTML --> <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26">
 <!-- CSS --> <img src="https://img.shields.io/badge/-CSS-663399?style=for-the-badge&labelColor=black&logo=css&logoColor=663399">
 <!-- SCSS --> <img src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699">
-<!-- Ruby --> <img src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=CC342D">
+<!-- Ruby --> <img src="https://img.shields.io/badge/-Java-F7DF1E?style=for-the-badge&labelColor=black&logo=java&logoColor=F7DF1E">
 <!-- JSON --> <img src="https://img.shields.io/badge/-JSON-5E5C5C?style=for-the-badge&labelColor=black&logo=json&logoColor=white">
   <br>
 </div>
