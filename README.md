@@ -10,8 +10,10 @@ _**im trying to get into programming, im quite new to it, well how can i put it,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&labelColor=black&logo=css&logoColor=blue)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=7F52FF)
 ![Java](https://img.shields.io/badge/Java-C5C5C5?style=for-the-badge&labelColor=black&logo=java&logoColor=F7DF1E)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=CC342D)
+
 
 ## <img src="https://i.imgur.com/DWlasQK.png">
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)
