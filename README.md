@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=C5C5C5&center=true&vCenter=true&width=500&lines=Heyo!+Here+Clement's+workplace.;Che!+Ac%C3%A1+est%C3%A1+el+laburo+de+Clemente.;Fala+a%C3%AD!+Aqui+%C3%A9+o+trampo+do+Clemente.;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%97%D0%B4%D0%B5%D1%81%D1%8C+%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%B5+%D0%BC%D0%B5%D1%81%D1%82%D0%BE+%D0%9A%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0.;Yo!+C%E2%80%99est+le+bureau+de+Cl%C3%A9ment.;Servus!+Hier+hackelt+der+Clement.;%E3%81%8A%E3%81%A3%E3%81%99%EF%BC%81%E3%82%AF%E3%83%AC%E3%83%9E%E3%83%B3%E3%81%AE%E8%81%B7%E5%A0%B4%E3%81%A0%E3%82%88%EF%BC%81" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=C5C5C5&center=true&vCenter=true&width=500&lines=Heyo!+Here+Vsevolod's+workplace.;Che!+Ac%C3%A1+est%C3%A1+el+laburo+de+Vsevolod.;Fala+a%C3%AD!+Aqui+%C3%A9+o+trampo+do+Vsevolod.;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%97%D0%B4%D0%B5%D1%81%D1%8C+%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%B5+%D0%BC%D0%B5%D1%81%D1%82%D0%BE+%D0%9A%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0.;Yo!+C%E2%80%99est+le+bureau+de+Cl%C3%A9ment.;Servus!+Hier+hackelt+der+Vsevolod.;%E3%81%8A%E3%81%A3%E3%81%99%EF%BC%81%E3%82%AF%E3%83%AC%E3%83%9E%E3%83%B3%E3%81%AE%E8%81%B7%E5%A0%B4%E3%81%A0%E3%82%88%EF%BC%81" alt="Typing SVG" /></a>
 
 <img src="https://i.imgur.com/Ujy02bg.png">
 
@@ -41,15 +41,15 @@ _**im trying to get into programming, im quite new to it, well how can i put it,
 _**if you like my repositories, or any other modding solutions, extensions. tho very happy to at least touch someone and they get high.. and suddenly you want to thank me with a cookies for my creativity, here are all the options available. as well as contacting me for a job offer or commission.**_
 
 ### <img src="https://i.imgur.com/qzvjn66.png">
-<a href="https://ko-fi.com/kzheps" target="_blank"><img src="https://img.shields.io/badge/KoFi-C25A14?style=for-the-badge&labelColor=black&logo=kofi&logoColor=C25A14" target="_blank"></a>
-<a href="https://patreon.com/kzheps" target="_blank"><img src="https://img.shields.io/badge/Patreon-000000?style=for-the-badge&labelColor=black&logo=patreon&logoColor=white" target="_blank"></a>
-<a href="https://boosty.to/kzheps" target="_blank"><img src="https://img.shields.io/badge/Boosty-F15F2C?style=for-the-badge&labelColor=black&logo=boosty&logoColor=F15F2C" target="_blank"></a>
+<a href="https://ko-fi.com/aurinthiel" target="_blank"><img src="https://img.shields.io/badge/KoFi-C25A14?style=for-the-badge&labelColor=black&logo=kofi&logoColor=C25A14" target="_blank"></a>
+<a href="https://patreon.com/aurinthiel" target="_blank"><img src="https://img.shields.io/badge/Patreon-000000?style=for-the-badge&labelColor=black&logo=patreon&logoColor=white" target="_blank"></a>
+<a href="https://boosty.to/aurinthiel" target="_blank"><img src="https://img.shields.io/badge/Boosty-F15F2C?style=for-the-badge&labelColor=black&logo=boosty&logoColor=F15F2C" target="_blank"></a>
 ![Charinium](https://img.shields.io/badge/Charinium-000000?style=for-the-badge&labelColor=c5c5c5&logo=charinium&logoColor=white) 
 
 ### <img src="https://i.imgur.com/9KwWAN9.png">
-![Gmail](https://img.shields.io/badge/clementshoidlin@gmail.com-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335)
-![Discord](https://img.shields.io/badge/piewithspace-5865F2?style=for-the-badge&labelColor=black&logo=discord&logoColor=5865F2)
-![Telegram](https://img.shields.io/badge/@kzhepsoffers-26A5E4?style=for-the-badge&labelColor=black&logo=telegram&logoColor=26A5E4)
-![Instagram](https://img.shields.io/badge/@shoidlin-FF0069?style=for-the-badge&labelColor=black&logo=instagram&logoColor=FF0069)
+![Gmail](https://img.shields.io/badge/filet2023@gmail.com-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335)
+![Discord](https://img.shields.io/badge/aurinthiel-5865F2?style=for-the-badge&labelColor=black&logo=discord&logoColor=5865F2)
+![Telegram](https://img.shields.io/badge/@kaituchi-26A5E4?style=for-the-badge&labelColor=black&logo=telegram&logoColor=26A5E4)
+![Instagram](https://img.shields.io/badge/@aurinthiel-FF0069?style=for-the-badge&labelColor=black&logo=instagram&logoColor=FF0069)
 
 <img src="https://i.imgur.com/Ujy02bg.png">
